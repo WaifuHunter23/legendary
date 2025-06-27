@@ -4183,3 +4183,19 @@ ModdedBiomeSource (2864a283)
 [27Jun2025 19:06:16.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
 [27Jun2025 19:06:16.936] [Server thread/INFO] [STDOUT/]: [com.abdelaziz.canary.common.block.TrackedBlockStatePredicate:<clinit>:14]: Canary Cached BlockState Flags are disabled!
 [27Jun2025 19:06:38.905] [Netty Epoll Server IO #1/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.common.mixins.json:PacketEncoderMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000
+[27Jun2025 21:03:10.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jun2025 21:03:10.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jun2025 21:03:10.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jun2025 21:03:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jun2025 21:03:10.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jun2025 21:03:10.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jun2025 21:03:10.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[27Jun2025 21:03:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jun2025 21:03:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jun2025 21:03:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jun2025 21:03:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[27Jun2025 21:03:10.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jun2025 21:03:10.983] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Jun2025 21:03:10.984] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[27Jun2025 21:03:10.985] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Jun2025 21:03:10.985] [Server thread/INFO] [Framework/]: Finished unloading server configs
