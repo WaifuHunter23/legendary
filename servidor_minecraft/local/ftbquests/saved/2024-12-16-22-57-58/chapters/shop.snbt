@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shop"
+	group: "5F70218941C1FBB1"
+	icon: "minecraft:emerald"
+	id: "74669653DB7D8343"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Shop"
+}

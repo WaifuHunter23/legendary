@@ -1,0 +1,15 @@
+{
+	id: "c1327062-4d69-3567-a9ec-5dfec9565934"
+	type: "player"
+	player_name: "SamKillU"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "SamKillU"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

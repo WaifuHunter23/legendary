@@ -1,0 +1,22 @@
+{
+	id: "1b4cdd1b-5944-416d-8298-a009294949db"
+	type: "party"
+	owner: "c1327062-4d69-3567-a9ec-5dfec9565934"
+	ranks: {
+		3a576d07-cfbf-3778-9f91-811231fddaf9: "member"
+		c1327062-4d69-3567-a9ec-5dfec9565934: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SamKillU's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750999070455L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"SamKillU\"}]}" }
+		{ from: "c1327062-4d69-3567-a9ec-5dfec9565934", date: 1750999070458L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ZaxT3r\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750999073537L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ZaxT3r\"}]}" }
+	]
+	extra: { }
+}

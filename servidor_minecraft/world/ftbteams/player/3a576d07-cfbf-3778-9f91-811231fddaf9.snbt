@@ -1,0 +1,15 @@
+{
+	id: "3a576d07-cfbf-3778-9f91-811231fddaf9"
+	type: "player"
+	player_name: "ZaxT3r"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ZaxT3r"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6CFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

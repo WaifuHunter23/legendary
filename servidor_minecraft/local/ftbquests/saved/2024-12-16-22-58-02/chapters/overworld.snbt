@@ -1,0 +1,58 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "5F70218941C1FBB1"
+	icon: "minecraft:grass_block"
+	id: "7D14A9A36DB25C94"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0B551EA2D0C945DD"
+			subtitle: "Get a full Jade Armor"
+			tasks: [{
+				advancement: "call_of_yucutan:obtain_jade_armor"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "call_of_yucutan:jades_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "3EE12BB841D3471E"
+				title: "Get a full Jade Armor"
+				type: "advancement"
+			}]
+			title: "Looks liks Emerald to me"
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			id: "6BE43082B0C90D34"
+			subtitle: "Sacrifice an item to an idol"
+			tasks: [{
+				advancement: "call_of_yucutan:sacrifice_items"
+				criterion: ""
+				id: "02C572A5A25A9DE1"
+				title: "Sacrifice an item to an idol"
+				type: "advancement"
+			}]
+			title: "I want to believe"
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			id: "573CF41F3F2EC663"
+			tasks: [{
+				id: "4BC1E97157F36448"
+				structure: "call_of_yucutan:deadly_crypt"
+				type: "structure"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+	]
+	title: "Overworld Quests"
+}

@@ -1,0 +1,253 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "get_stated"
+	group: ""
+	icon: "artifacts:golden_hook"
+	id: "64199B6DEC4E993E"
+	images: [
+		{
+			height: 8.0d
+			image: "ftbquests:textures/custom/hydration.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -11.5d
+			y: -1.0d
+		}
+		{
+			click: "command:function minecraft:open_thirst_page"
+			height: 1.0d
+			hover: ["Go to Hydration Introduction Page"]
+			image: "legendarysurvivaloverhaul:item/purified_water_bottle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.52d
+			y: 0.0724285714285765d
+		}
+		{
+			height: 8.0d
+			image: "ftbquests:textures/custom/temperature.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			click: "command:function minecraft:open_temp_page"
+			height: 1.0d
+			hover: ["Go to Temperature Introduction Page"]
+			image: "legendarysurvivaloverhaul:item/thermometer/thermometer_14"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.0714285714285765d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "443EA2FE55205818"
+			shape: "square"
+			tasks: [{
+				id: "1A446C5AB1220EE6"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Movements"
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "2A06232FEB587D00"
+			shape: "square"
+			tasks: [{
+				id: "6D40DDD4C4D15E10"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Skills"
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "50AE63309F9AFB26"
+			shape: "square"
+			tasks: [{
+				id: "47D18B19CEBACCA2"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Baubles"
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "2557181348461F84"
+			shape: "square"
+			tasks: [{
+				id: "07801EBAD93D06A3"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Leveling"
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "59357F9004CED920"
+			shape: "square"
+			tasks: [{
+				id: "4D46C3012D886E51"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Body Damage"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "7B5E5BB3601756B5"
+			shape: "square"
+			tasks: [{
+				id: "097AC787186622BA"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Loot"
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "513C5F0A5ADDDA4F"
+			shape: "square"
+			tasks: [{
+				id: "4C5D325BC6642BDD"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Equipment Quality"
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "70700410F909BB57"
+			shape: "square"
+			tasks: [{
+				id: "635F0E7E633C823F"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Cosmetics"
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			icon: "legendarysurvivaloverhaul:thermometer"
+			id: "06695C96E8A37A46"
+			shape: "square"
+			tasks: [{
+				id: "2A21D25F8D1B7BAE"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Main Quest"
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					Parent: {
+						temperature: 24.6f
+					}
+				}
+				id: "legendarysurvivaloverhaul:thermometer"
+			}
+			id: "7A21B029012381AF"
+			shape: "square"
+			tasks: [{
+				id: "0BBD668E10C16B9A"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			title: "Health"
+			x: 0.5d
+			y: 0.5d
+		}
+	]
+	title: "Introduction"
+}

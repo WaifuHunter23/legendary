@@ -1,0 +1,171 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1747580898444,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Vtyb5fidTV"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1747524305502,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/bUCNUYu6Mv"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1747013330777,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wX4zZsBQGJ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746892126230,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sBQWsYscV9"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746880379237,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/28DtUvMxRw"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746453434739,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qZjoB0aufy"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746450968946,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sp2K00jpbF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746445033175,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Z2T37OSJ4g"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746444944001,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ze9vQUP5uQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746407487864,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4G3Z5ENpPm"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1746119463693,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JbW2E7xqKR"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1744984462476,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Krampus\\curseforge\\minecraft\\Instances\\Minecraft Legendary Edition 1.20.1\\config\\spark\\profile-2025-04-18_15.54.22.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Krampus_There",
+      "uniqueId": "32e09091-f8d2-4cde-b2d2-05e09150116b"
+    },
+    "time": 1744832086917,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Krampus\\curseforge\\minecraft\\Instances\\Minecraft Legendary Edition 1.20.1\\config\\spark\\profile-2025-04-16_21.34.46.sparkprofile"
+    }
+  }
+]
